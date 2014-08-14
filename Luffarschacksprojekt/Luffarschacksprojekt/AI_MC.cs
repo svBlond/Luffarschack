@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Luffarschacksprojekt
 {
+      // Trasig
       public class MonteCarloAI : AI
       {
             // Parametrarna används när två drag har lika bra statistik
