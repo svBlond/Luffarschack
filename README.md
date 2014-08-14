@@ -1,2 +1,4 @@
 Luffarschack
 ============
+
+Luffarschacksprogram i WinForms.
