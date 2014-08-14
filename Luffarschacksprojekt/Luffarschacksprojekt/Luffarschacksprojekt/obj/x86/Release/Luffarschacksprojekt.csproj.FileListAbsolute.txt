@@ -1,0 +1,9 @@
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\ResolveAssemblyReference.cache
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\GenerateResource.read.1.tlog
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\GenerateResource.write.1.tlog
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb

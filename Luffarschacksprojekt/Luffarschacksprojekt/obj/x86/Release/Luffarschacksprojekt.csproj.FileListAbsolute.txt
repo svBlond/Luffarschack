@@ -1,0 +1,57 @@
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\ResolveAssemblyReference.cache
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\GenerateResource.read.1.tlog
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\GenerateResource.write.1.tlog
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+K:\C#\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+H:\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+H:\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+H:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+C:\Users\Ulla\Documents\Visual Studio 2012\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+E:\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+E:\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+E:\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\bin\Release\Luffarschacksprojekt.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Form1.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Luffarschack\Luffarschacksprojekt\Luffarschacksprojekt\obj\x86\Release\Luffarschacksprojekt.csproj.GenerateResource.Cache
